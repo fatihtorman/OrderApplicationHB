@@ -1,0 +1,4 @@
+D:\hepsiburada\OrderApplication\Repository\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+D:\hepsiburada\OrderApplication\Repository\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+D:\hepsiburada\OrderApplication\Repository\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+D:\hepsiburada\OrderApplication\Repository\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache

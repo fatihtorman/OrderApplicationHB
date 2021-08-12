@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6LrzJgxCVnM35Q43b+H3v2Wcdf630JjCzAZ1c1SZD92EAFlm/7Dnnq7wfDZuLEVP5j2mMEg8Q+SaIc5FgsMaw==",
+  "success": true,
+  "projectFilePath": "D:\\Scripts\\fati\\proje\\hepsiburada\\OrderApplication\\Api\\AuthApi\\AuthApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.0\\microsoft.identitymodel.jsonwebtokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.0\\system.identitymodel.tokens.jwt.6.12.0.nupkg.sha512",
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+U5/V5zB4X6H6SnxqNUzWNhd54vYO47zAA8RCKCKkStrbmVKqfTr5rIOXYDqPTvpz8PkBghs7I+Bmgg4m18+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Scripts\\fati\\proje\\hepsiburada\\OrderApplication\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatih.torman\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
